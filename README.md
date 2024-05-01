@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Desenvolvedor Full Stack - ReactJS | NodeJs | TypeScript | JavaScript | HTML | CSS
+Desenvolvedor Web - ReactJS | NodeJs | TypeScript | JavaScript | HTML | CSS
 
 
 ## 🌐 Socials:
